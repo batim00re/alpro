@@ -61,11 +61,11 @@
         Procedure isi_suku(Output n: Integer)
         Function factorial(Input n: Integer)
         Function nilai_dari(Input n: Integer)
-        Procedure tampil_deret(Input hasil: Integer)
+        Procedure tampil_suku(Input hasil: Integer)
         
     { Algoritma Utama}
         { Input }
         isi_suku(n)
         hasil <- nilai_dari(n)
-        tampil_deret(hasil)
+        tampil_suku(hasil)
 
